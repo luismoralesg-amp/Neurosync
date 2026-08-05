@@ -29,3 +29,4 @@ while flagsita == True:
     else:
         print("notas fuera del rango")
 "hola"
+"hola de nuevo"
